@@ -1,0 +1,3 @@
+- Pesquisa um trecho de código em que é possível ler um arquivo.csv
+- Separação das colunas para as suas respectivas tabelas
+- Criação de um rascunho com um trecho do modelo com as tabelas Distrito, Escola, Turma e Aluno. Apenas para gerar uma melhor observação do cenário de hierarquia em que os dados devem ser inseridos.

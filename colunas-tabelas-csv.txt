@@ -1,0 +1,18 @@
+
+ALUN0
+	Ano da Matricula 
+	Codigo Aluno 
+	Fase 
+	Nome do Aluno 
+
+TURMAS
+	Nome Turma
+	Turno 
+	Descricao (obs)
+
+ESCOLA
+	Ref Escola 
+	Nome Escola 
+
+DISTRITO
+	Distrito (descricao)
